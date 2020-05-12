@@ -1,0 +1,19 @@
+body {
+  font-family: system-ui;
+  background: #5030c5;
+  color: #ddfefe;
+  text-align: center;
+}
+
+.menu {
+  background: grey;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
